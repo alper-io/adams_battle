@@ -1,0 +1,12 @@
+Assasin	fire	Leoxane	0	10	5	a 
+Tank	fire	Mobayi	1	9	1	b 
+Mage	fire	Marcus	2	10	6	b 
+Mage	fire	Bebi	3	10	7	c 
+Mage	water	Muccuk	4	10	6	d	
+Assasin	water	Bedocan	5	10	5	e 
+Marksman	water	Lorach	6	10	5	f
+Mage	water	Umai	7	10	5	g 
+Tank	earth	Bromen	8	10	5	h 
+Assasin	earth	Jagu	9	10	6	i	
+Marksman	earth	Atreus	10	10	6	j
+Mage	earth	Lisa	11	10	5	k

@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1703090408 source:c:\users\user\desktop\yeni klasör\ezz\main.cpp
+	"card.h"
+	"skills.h"
+	"game.h"
+	"player.h"
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<vector>
+
+1703621754 c:\users\user\desktop\yeni klasör\ezz\card.h
+	<iostream>
+	<string>
+	<vector>
+	<Windows.h>
+	<algorithm>
+
+1703623258 source:c:\users\user\desktop\yeni klasör\ezz\card.cpp
+	<iostream>
+	"card.h"
+	"game.h"
+	"player.h"
+	"skills.h"
+	<string>
+	<cstdlib>
+	<algorithm>
+	<Windows.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1703622098 source:c:\users\user\desktop\yeni klasör\ezz\skills.cpp
+	<iostream>
+	"card.h"
+	"skills.h"
+	"player.h"
+	"game.h"
+	<vector>
+
+1702999031 c:\users\user\desktop\yeni klasör\ezz\skills.h
+	<iostream>
+	"card.h"
+	<vector>
+
+1702916013 source:c:\users\user\desktop\yeni klasör\ezz\play.cpp
+
+1703623258 source:c:\users\user\desktop\yeni klasör\ezz\player.cpp
+	"card.h"
+	"player.h"
+	"game.h"
+	"skills.h"
+	<string>
+	<vector>
+	<iostream>
+
+1703622098 c:\users\user\desktop\yeni klasör\ezz\player.h
+	"card.h"
+	<string>
+	<vector>
+
+1703623514 source:c:\users\user\desktop\yeni klasör\ezz\game.cpp
+	"game.h"
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<string>
+	<Windows.h>
+	<iomanip>
+	<typeinfo>
+	"card.h"
+	<vector>
+	"player.h"
+	"skills.h"
+
+1703622098 c:\users\user\desktop\yeni klasör\ezz\game.h
+	"card.h"
+	"player.h"
+	"skills.h"
+	<Windows.h>
+	<iomanip>
+	<vector>
+	<string>
+	<iostream>
+
+1703009337 c:\users\user\desktop\yeni klasör\ezz\deck.h
+	"card.h"
+
